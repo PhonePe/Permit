@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
     
   s.name         = "Permit"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "A framework build to hide away complexities of device permissions in an elegant way."
   s.homepage     = "https://github.com/PhonePe/Permit"
   s.source       = { :git => "https://github.com/PhonePe/Permit.git", :tag => "#{s.version}" }
