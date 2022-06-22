@@ -6,9 +6,9 @@ Permit framework provides a universal API for querying the permission status of 
 
 - [Install](#Install)
 - [Usage](#Usage)
-- [Available Use Cases](#Available Use Cases)
-- [Desired Features](#Desired Features)
-- [Contribution Guide](#Contribution Guide)
+- [Available Use Cases](#Available-Use-Cases)
+- [Desired Features](#Desired-Features)
+- [Contribution Guide](#Contribution-Guide)
 
 ## Install
 
@@ -22,7 +22,7 @@ pod 'Permit'
 
 ## Usage
 
-`Permit` aims to provide a very minimal API for accessing and requesting permissions for different use cases. For a list of available use cases, see [available use cases](#Available Use Cases).
+`Permit` aims to provide a very minimal API for accessing and requesting permissions for different use cases. For a list of available use cases, see [available use cases](#Available-Use-Cases).
 
 Request status between `isAuthorized`, `isDenied` and `isNotDetermined` like: 
 
