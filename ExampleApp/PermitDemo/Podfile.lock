@@ -1,0 +1,18 @@
+PODS:
+  - Permit (0.0.1)
+  - Permit/Tests (0.0.1)
+
+DEPENDENCIES:
+  - Permit (from `../../../Permit/Permit.podspec`)
+  - Permit/Tests (from `../../../Permit/Permit.podspec`)
+
+EXTERNAL SOURCES:
+  Permit:
+    :path: "../../../Permit/Permit.podspec"
+
+SPEC CHECKSUMS:
+  Permit: 67359073f1734a80817561aa276afea21a8b7231
+
+PODFILE CHECKSUM: b857983fa94d567e49fc00b3ac5147ec661547ea
+
+COCOAPODS: 1.11.2
