@@ -1,6 +1,6 @@
 PODS:
-  - Permit (0.0.1)
-  - Permit/Tests (0.0.1)
+  - Permit (1.0.0)
+  - Permit/Tests (1.0.0)
 
 DEPENDENCIES:
   - Permit (from `../../../Permit/Permit.podspec`)
@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: "../../../Permit/Permit.podspec"
 
 SPEC CHECKSUMS:
-  Permit: 67359073f1734a80817561aa276afea21a8b7231
+  Permit: 03a7a06f67a55411ad567891a7acf7d2873d1749
 
 PODFILE CHECKSUM: b857983fa94d567e49fc00b3ac5147ec661547ea
 
